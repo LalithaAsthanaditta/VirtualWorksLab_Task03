@@ -65,20 +65,3 @@ python app.py
 http://127.0.0.1:5000
 ```
 
-## Future Enhancements
-
-- Add coffee images
-- Sort coffees by highest votes
-- Add new coffee items
-- Search functionality
-- User authentication
-- Responsive UI improvements
-
-## Author
-
-**Asthanaditta Naga Sri Lalitha**  
-**B.Tech CSE (AI & ML)**
-
----
-
-⭐ Feel free to fork this repository and contribute!
